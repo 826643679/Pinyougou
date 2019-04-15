@@ -31,7 +31,7 @@
 		<groupId>mysql</groupId>
 		<artifactId>mysql-connector-java</artifactId>		
 	</dependency>
-	<!-- Á¬½Ó³Ø -->
+	<!-- è¿žæŽ¥æ±  -->
 	<dependency>
 		<groupId>com.alibaba</groupId>
 		<artifactId>druid</artifactId>		
@@ -43,4 +43,5 @@
 		<version>0.0.5-SNAPSHOT</version>
 	</dependency>
   </dependencies>
+  
 </project>
