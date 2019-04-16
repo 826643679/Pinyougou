@@ -1,0 +1,5 @@
+com\pinyougou\sellergoods\service\ItemCatService.class
+com\pinyougou\sellergoods\service\SpecificationService.class
+com\pinyougou\sellergoods\service\SellerService.class
+com\pinyougou\sellergoods\service\GoodsService.class
+com\pinyougou\sellergoods\service\TypeTemplateService.class

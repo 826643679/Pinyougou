@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:00:57 +0800] "GET /admin/index.html HTTP/1.1" 304 - http-bio-9101-exec-1 112
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:00:57 +0800] "GET /plugins/jQueryUI/jquery-ui.min.js HTTP/1.1" 404 1017 http-bio-9101-exec-3 3
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:00:57 +0800] "GET /plugins/jQueryUI/jquery-ui.min.js HTTP/1.1" 404 1017 http-bio-9101-exec-4 1
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:01:11 +0800] "GET /specification/selectOptionList.do HTTP/1.1" 500 11153 http-bio-9101-exec-7 3075
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:01:11 +0800] "GET /brand/selectOptionList.do HTTP/1.1" 500 11073 http-bio-9101-exec-6 3075
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:01:14 +0800] "POST /typeTemplate/search.do?page=1&rows=10 HTTP/1.1" 500 14301 http-bio-9101-exec-8 5955
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:01:14 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 500 14289 http-bio-9101-exec-5 14378
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:02:43 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 500 14122 http-bio-9101-exec-9 3029
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:04:38 +0800] "GET /admin/specifion.html HTTP/1.1" 404 991 http-bio-9101-exec-10 1
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:08:04:57 +0800] "POST /specification/search.do?page=1&rows=10 HTTP/1.1" 500 14582 http-bio-9101-exec-10 3037
