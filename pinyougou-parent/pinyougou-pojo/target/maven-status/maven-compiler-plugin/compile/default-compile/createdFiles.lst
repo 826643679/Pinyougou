@@ -1,4 +1,6 @@
 entity\Result.class
 com\pinyougou\pojogroup\Specification.class
 com\pinyougou\pojogroup\Goods.class
+com\pinyougou\pojo\group\Specification.class
+com\pinyougou\pojo\group\Goods.class
 entity\PageResult.class

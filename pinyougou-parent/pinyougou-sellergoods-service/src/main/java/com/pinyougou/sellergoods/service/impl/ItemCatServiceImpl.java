@@ -99,9 +99,11 @@ public class ItemCatServiceImpl implements ItemCatService {
 
 	@Override
 	public List<TbItemCat> findByParentId(Long parentId) {
-		TbItemCatExample example=new TbItemCatExample();
+		TbItemCatExample example = new TbItemCatExample();
 		Criteria criteria = example.createCriteria();
+		// 设置条件:
 		criteria.andParentIdEqualTo(parentId);
+		// 条件查询
 		return itemCatMapper.selectByExample(example);
 	}
 	

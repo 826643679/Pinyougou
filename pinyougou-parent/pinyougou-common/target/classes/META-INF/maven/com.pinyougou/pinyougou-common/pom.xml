@@ -8,7 +8,7 @@
   <artifactId>pinyougou-common</artifactId>
   
   <dependencies>
-  	<!-- 文件上传组件 -->
+  	<!-- 鏂囦欢涓婁紶缁勪欢 -->
 	<dependency>
 		<groupId>org.csource.fastdfs</groupId>
 		<artifactId>fastdfs</artifactId>
@@ -17,7 +17,15 @@
 		<groupId>commons-fileupload</groupId>
 		<artifactId>commons-fileupload</artifactId>
 	</dependency> 
-  
+	  <!-- 缂撳瓨 -->
+    <dependency>
+		<groupId>redis.clients</groupId>
+		<artifactId>jedis</artifactId>
+	</dependency>
+	<dependency>
+		<groupId>org.springframework.data</groupId>
+		<artifactId>spring-data-redis</artifactId>
+	</dependency>  
   </dependencies>
   
 </project>
